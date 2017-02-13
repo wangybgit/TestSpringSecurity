@@ -1,0 +1,10 @@
+target/
+uploads/
+tmp/
+/src/log/
+dmp/
+*~
+*.swp
+*.bak
+*.log
+*.apk
